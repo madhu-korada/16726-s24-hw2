@@ -1,5 +1,5 @@
-# Nikhil Uday Shinde
-# https://github.com/nikhilushinde/cs194-26_proj3_2.2
+<!-- # Nikhil Uday Shinde -->
+<!-- # https://github.com/nikhilushinde/cs194-26_proj3_2.2 -->
 
 For masking_code.py call save_masks with image names that you want to create a mask for:
 
